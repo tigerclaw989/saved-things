@@ -1,4 +1,4 @@
-in this folder i have a mostly complete mouser bom for the [lj-2000m](https://sites.google.com/view/pd0lew/projects/power-and-swr-meter) power swr meter it's a pretty cool homebrew power swr. the bom i made is missing a few componets due to not being availble on mouser listed below are whats not on the bom i uploaded.
+in this folder i have a mostly complete mouser bom for the lj-2000m power swr meter https://sites.google.com/view/pd0lew/projects/power-and-swr-meter it's a pretty cool homebrew power swr. the bom i made is missing a few componets due to not being availble on mouser listed below are whats not on the bom i uploaded.
 2       	FT82-43     ferrite core Reichelt AMI FT-82-43
 1       	Cu 1mm      Cu wire 1 mm dia length about 1.5 meter 
 1       	Cu 0.63 mm  Cu wire 0.6 - 0.7 mm dia length about 1.5 meter
