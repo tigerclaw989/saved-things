@@ -6,6 +6,10 @@
 
 [Ender 3 V2](https://www.creality3dofficial.com/products/ender-3-v2-3d-printer)
 
+### Firmware stuffs
+
+[3 V2 Bltouch Firmware Guide](https://smith3d.com/ender-3-v2-bltouch-firmware-installation-guide-by-smith3d-com/)
+
 ## misc
 
 [Calibration Prints and etc.](https://letsprint3d.net/calibration-achieve-perfect-3d-prints/)
