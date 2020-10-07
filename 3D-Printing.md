@@ -13,3 +13,7 @@
 ## misc
 
 [Calibration Prints and etc.](https://letsprint3d.net/calibration-achieve-perfect-3d-prints/)
+
+## Guides
+
+[Lots of Ender 3 stuff](https://www.reddit.com/r/3Dprinting/wiki/newguideender3)
