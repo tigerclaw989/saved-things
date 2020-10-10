@@ -9,3 +9,5 @@
 [an AWS Price scraper of sorts](https://github.com/jankais3r/AWS-EC2-Price-Scraper)
 
 [Photo namer based on exif data](https://github.com/pandiloko/albumathor)
+
+[gnome themes updater](https://github.com/tliron/install-gnome-themes)
