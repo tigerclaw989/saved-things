@@ -13,3 +13,5 @@
 [Photo namer based on exif data](https://github.com/pandiloko/albumathor)
 
 [gnome themes updater](https://github.com/tliron/install-gnome-themes)
+
+[Awesome piracy](https://github.com/Igglybuff/awesome-piracy)
