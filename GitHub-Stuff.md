@@ -16,4 +16,4 @@
 
 [Awesome piracy](https://github.com/Igglybuff/awesome-piracy)
 
-[PandwaRF](https://github.com/ComThings/PandwaRF
+[PandwaRF](https://github.com/ComThings/PandwaRF)
