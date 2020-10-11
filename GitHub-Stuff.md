@@ -15,3 +15,5 @@
 [gnome themes updater](https://github.com/tliron/install-gnome-themes)
 
 [Awesome piracy](https://github.com/Igglybuff/awesome-piracy)
+
+[PandwaRF](https://github.com/ComThings/PandwaRF
