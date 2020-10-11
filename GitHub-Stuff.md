@@ -1,3 +1,5 @@
+[Awesome electronics](https://github.com/kitspace/awesome-electronics)
+
 [Amoung Us editor](https://github.com/Koupah/Among-Us-Editor)
 
 [MarkText](https://github.com/marktext/marktext)
