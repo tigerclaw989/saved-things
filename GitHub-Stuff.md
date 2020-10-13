@@ -18,4 +18,6 @@
 
 [PandwaRF](https://github.com/ComThings/PandwaRF)
 
-[Powershell script to change video to x265](https://github.com/DcBexter/conv2x265-ps)
+[Powershell script to change videos to x265](https://github.com/DcBexter/conv2x265-ps)
+
+[Awsome static site generators](https://github.com/myles/awesome-static-generators)
