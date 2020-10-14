@@ -24,4 +24,4 @@
 
 [Comments using github issues](https://github.com/utterance/utterances)
 
-[https://github.com/EbookFoundation/free-programming-books](Free programming books)
+[https://github.com/EbookFoundation/free-programming-books](Free programming books) a
