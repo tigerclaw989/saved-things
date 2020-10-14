@@ -5,3 +5,5 @@
 [Some KiCad scripts](https://github.com/gregdavill/kicadScripts)
 
 [PcbDraw](https://github.com/yaqwsx/PcbDraw)
+
+[KiCad themes](https://github.com/pointhi/kicad-color-schemes)
