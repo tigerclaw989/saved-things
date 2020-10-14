@@ -33,3 +33,9 @@
 [Self hosted photos (Lychee)](https://github.com/electerious/Lychee)
 
 [Faceswap](https://github.com/deepfakes/faceswap/)
+
+[ish - an ios linux terminal](https://github.com/ish-app/ish)
+
+[intel me cleaner - does its best to disable intel me](https://github.com/corna/me_cleaner)
+
+[Amd psptool](https://github.com/PSPReverse/PSPTool)
