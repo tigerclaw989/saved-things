@@ -41,3 +41,8 @@
 [Amd psptool](https://github.com/PSPReverse/PSPTool)
 
 [Pi-Hole](https://github.com/pi-hole/pi-hole)
+
+[Awesome sysadmin](https://github.com/n1trux/awesome-sysadmin)
+
+[Awesome self hosted](https://github.com/awesome-selfhosted/awesome-selfhosted)
+
