@@ -39,3 +39,5 @@
 [intel me cleaner - does its best to disable intel me](https://github.com/corna/me_cleaner)
 
 [Amd psptool](https://github.com/PSPReverse/PSPTool)
+
+[Pi-Hole](https://github.com/pi-hole/pi-hole)
