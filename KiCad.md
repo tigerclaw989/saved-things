@@ -7,3 +7,5 @@
 [PcbDraw](https://github.com/yaqwsx/PcbDraw)
 
 [KiCad themes](https://github.com/pointhi/kicad-color-schemes)
+
+[KiBom](https://github.com/SchrodingersGat/KiBoM)
