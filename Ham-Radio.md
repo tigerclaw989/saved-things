@@ -7,3 +7,5 @@
 [Some SDR Stuff](https://github.com/notpike/SDR-Notes)
 
 [RasPI Bot thingy](https://github.com/notpike/Hambone)
+
+[Portable SDR](https://github.com/MichaelRColton/PSDR)
