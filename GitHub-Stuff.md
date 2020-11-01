@@ -35,3 +35,5 @@
 [Amd psptool](https://github.com/PSPReverse/PSPTool)
 
 [Pi-Hole](https://github.com/pi-hole/pi-hole)
+
+[PS4 Remote play](https://github.com/thestr4ng3r/chiaki)
