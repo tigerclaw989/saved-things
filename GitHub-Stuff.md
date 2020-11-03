@@ -37,3 +37,7 @@
 [Pi-Hole](https://github.com/pi-hole/pi-hole)
 
 [PS4 Remote play](https://github.com/thestr4ng3r/chiaki)
+
+[Edex ("hacker" terminal)](https://github.com/GitSquared/edex-ui)
+
+[Python bashtop](https://github.com/aristocratos/bpytop)
