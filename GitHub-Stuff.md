@@ -22,7 +22,7 @@
 
 [Wine for macOS (cli only)](https://github.com/darlinghq/darling)
 
-[Self histed photos (Piwigo)](https://github.com/Piwigo/Piwigo)
+[Self hosted photos (Piwigo)](https://github.com/Piwigo/Piwigo)
 
 [Self hosted photos (Lychee)](https://github.com/electerious/Lychee)
 
