@@ -41,3 +41,7 @@
 [Edex ("hacker" terminal)](https://github.com/GitSquared/edex-ui)
 
 [Python bashtop](https://github.com/aristocratos/bpytop)
+
+[Ventoy multi boot usb](https://github.com/ventoy/Ventoy)
+
+[Archive box](https://github.com/pirate/ArchiveBox)
