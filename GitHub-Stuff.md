@@ -45,3 +45,5 @@
 [Ventoy multi boot usb](https://github.com/ventoy/Ventoy)
 
 [Archive box](https://github.com/pirate/ArchiveBox)
+
+[Vim quitter](https://github.com/ABLomas/vimquitter)
