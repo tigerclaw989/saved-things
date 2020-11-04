@@ -9,3 +9,5 @@
 [RasPI Bot thingy](https://github.com/notpike/Hambone)
 
 [Portable SDR](https://github.com/MichaelRColton/PSDR)
+
+[Analog Solar data](https://github.com/kolarisk/SolarXML)
