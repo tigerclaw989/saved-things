@@ -47,3 +47,5 @@
 [Archive box](https://github.com/pirate/ArchiveBox)
 
 [Vim quitter](https://github.com/ABLomas/vimquitter)
+
+[Kahoot reverse engineering](https://github.com/unixpickle/kahoot-hack)
